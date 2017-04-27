@@ -14,7 +14,7 @@
 
 		<strong>Goal:</strong> The primary goal for this site is to garner name recognition, direct business, provide employment opportunities, and allow for connection/collaboration inside the IT community. As a secondary goal I would like this site to become a forum for displaying my work and increasing my social media presence.
 
-	<br><strong>Persona:</strong>
+	<br><strong><center>Persona</center></strong>
 
 		<br><strong>Name:</strong> Eric Sanders
 		<br><strong>Age:</strong>32
