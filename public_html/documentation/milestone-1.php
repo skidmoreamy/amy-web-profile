@@ -1,29 +1,23 @@
-Purpose, Audience, Goal
-This is a brief, high-level overview of what you intend to create. Your Personal Website Project should be relevant to your web development education, business venture, personal growth, professional field, or an area of personal interest. Have an idea to create something different? Cool! Please discuss it with your instructors.
 
-In your milestone-1.php file, using valid HTML markup, compose no more than one brief statement for each of the following:
+Purpose: This project will be a professional portfolio concentrating on web development in order to gain business.
 
-Purpose: What would you like your PWP to help you accomplish? This is a high-level goal akin to a Mission Statement.
-Audience: Who will be using or viewing your site? Who is this site designed for, and who is your audience comprised of? Could it be for your professional peers and other developers, potential employers, customers, or clients, etc.?
-Goal: This is should be a quantifiable goal if possible. For example, a goal for your PWP could be:
-To acquire full or part-time employment or an internship.
-To increase sales and/or conversion rates for an existing business.
-To attract freelance clients.
-To serve as a gallery to showcase and promote your work.
-To increase the reach of a new or established social media presence (as measured via analytics tools).
-Hint: Use the W3C Markup Validator Service to check your HTML for errors: http://validator.w3.org/
+Audience: This site will be designed and directed toward professionals such as; web developers, clients, startup founders, hiring managers, recruiters, business owners, and peers.
 
-Persona
-In your milestone-1.php file, define one persona that represents the primary target audience for your Personal Website. More information on how to create a persona for your project here: http://www.webcredible.com/blog-reports/web-usability/personas.shtml
+Goal: The primary goal for this site is to garner name recognition, direct business, provide employment opportunities, and allow for connection/collaboration inside the IT community. As a secondary goal I would like this site to become a forum for displaying my work and increasing my social media presence.
 
-Your persona should feature the following at minimum:
+Persona:
 
-Name
-A detailed description that includes demographic information such as: age, job or role, relevant technology being used, behaviors and attitudes, and the situation or scenario in which they will use your site.
-Goal(s) regarding the use of your site.
-Additional information regarding your persona may also include:
+Name: Eric Sanders
+Age:32
 
-Frustrations your persona may be facing.
-Additional information your persona may need in order to achieve their goal.
-Use Case
-A use case should be based on your persona’s motivations and goals. Your use case should detail the time, location, technology used, and the purpose or goal of your Persona's use of your site.
+Profession: Hiring manager for a small business specializing in Contracting and design. The business has had a serious increase in sales and is now looking to extend their marketing strategy into an online forum. He is looking to hire a full time web develop that is comfortable with producing work encompassing the front and backend.
+
+Technology: Mr. Sanders is a dedicated Apple user who has a MacBook Pro, an Ipad Pro, and an Iphone 7 that he uses both professionally and personally.
+
+Attitudes and Behaviors: Mr. Sanders has very little time to select candidates and as he is comfortable with techonlogy would prefer resumes and portfolios that are submitted online. He spends only a few minutes verifying a candidates potential for filling a position and only a little more to check out a candidates portfolio site.
+
+Frustrations and Needs: Mr. Sanders is the only hiring manager for his company and as they are experiencing an exponential growth he is overworked and frustrated with trying to fill so many positions in a short span of time. He needs a candidate comfortable with working alone, accepting an entry level salary, and who is willing to maintain his/her work for an extended length of time.
+
+Goal: Mr. Sanders goal is to select the correct person to fill the job very quickly.
+
+Use Case: It is 8:05 a.m., and Mr. Sanders is in his office using his MacBook Pro to check portfolios against the web developer job vacancy. As he has received my application for employment, and has placed me on a short list for possible personal, he is currently searching my portfolio site. Mr. Sanders has several other positions to fill this morning and as a result will not even consider a confusing or hard to access portfolio, immediately, dropping that candidate. He will be looking for the relevant information and qualifications to be easy to access and clearly displayed.
