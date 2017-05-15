@@ -17,7 +17,7 @@
 	<br><strong><center>Persona</center></strong>
 
 		<br><strong>Name:</strong> Eric Sanders
-		<br><strong>Age:</strong>32
+		<br><strong>Age:</strong>32<br>
 
 		<br><strong>Profession:</strong> <p>Hiring manager for a small business specializing in Contracting and design. The business has had a serious increase in sales and is now looking to extend their marketing strategy into an online forum. He is looking to hire a full time web develop that is comfortable with producing work encompassing the front and backend.</p>
 
