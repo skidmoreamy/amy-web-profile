@@ -1,3 +1,6 @@
+/**
+ * Created by amyskidmore on 5/28/17.
+ */
 //jQuery to collapse the navbar on scroll
 $(window).scroll(function() {
 	if ($(".navbar").offset().top > 50) {
