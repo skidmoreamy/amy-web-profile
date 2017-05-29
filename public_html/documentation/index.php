@@ -65,11 +65,8 @@
 		<header>
 			<!--navbartop-->
 			<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-				::before
 				<div class="container">
-					::before
 					<div class="navbar-header page-scroll">
-						::before
 						<button>
 						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
 							<span class="sr-only">Toggle navigation</span>
