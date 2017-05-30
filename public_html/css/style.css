@@ -1,0 +1,76 @@
+body {
+	width: 100%;
+	height: 100%;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+}
+
+.name-button {
+	font-family: fantasy;
+	font-size: xx-large;
+}
+
+span {
+	font-weight: bold;
+	color: darkslategrey;
+}
+
+.btn {
+	margin-top: 1.5rem;
+	margin-bottom: 1.5rem;
+}
+
+p {
+	font-size: 20px;
+}
+.extra-jumbotron{
+	font-family: cursive;
+	font-size: xx-large;
+
+}
+
+.extra-jumbotron {
+	background-color: deeppink;
+	background-image: url('../image/intro.jpg');
+	background-size: 100%;
+	color: white;
+}
+
+.portfolio-section {
+	height: 100%;
+	padding-top: 80px;
+	padding-bottom: 120px;
+	text-align: center;
+	background: #fff;
+}
+
+.contact-section {
+	height: 100%;
+	padding-top: 80px;
+	padding-bottom: 500px;
+	text-align: center;
+	background: #eee;
+
+}
+.extra-jumbotron{
+	padding-bottom:80px;
+
+}
+
+@media(min-width:767px) {
+	.navbar {
+		padding:0;
+		-webkit-transition: background .2s ease-in-out,padding .2s ease-in-out;
+		-moz-transition: background .2s ease-in-out,padding .2s ease-in-out;
+		transition: background .2s ease-in-out,padding .2s ease-in-out;
+	}
+
+	.top-nav-collapse {
+		padding: 0%;
+	}
+}
+
+
