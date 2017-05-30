@@ -1,9 +1,18 @@
 .name-button {
-	font-family: Calibri;
-	font-size: 30px;
+	font-family: fantasy;
+	font-size: xx-large;
 }
 
 span {
 	font-weight: bold;
-	color: #6f88a7;
+	color: #67717d;
+}
+
+.btn {
+	margin-top: 1.5rem;
+	margin-bottom: 1.5rem;
+}
+
+p {
+	font-size: 20px;
 }
