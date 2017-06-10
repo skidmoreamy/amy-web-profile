@@ -27,6 +27,8 @@ The biggest issue I see with your project right now is that the contact form isn
 
 There are a few adjustments that can be made to the Bootstrap grid to polish up the layout a bit. See **Edits &amp; Suggestions** below for details on technical issues and fixes.
 
+I'm also concerned that I'm not seeing the latest codebase on GitHub since the last commits for this project are the ones I made during our Milestone 2b checkin 11 days ago. Remember to commit early and often.
+
 All in all, nice work on putting together thoughful content and a visually engaging design. You've throughly challenged yourself with this project, and I hope this has been a valuable learning experience for you.  
 
 Your Milestone 3/Final Delivery for PWP passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/).
